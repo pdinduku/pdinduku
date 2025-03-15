@@ -115,7 +115,8 @@
 #### 🏥 Predicting Breast Cancer using GCP  
 - Developed an **ML pipeline** to predict breast cancer occurrence, achieving **100% accuracy** with Decision Tree and **94.72%** with Random Forest.  
 - Leveraged cloud services for **scalable data storage, model training, and deployment**, ensuring efficiency and reliability.  
-- Automated **data preprocessing, training, and evaluation** workflows, supporting early detection and assisting healthcare professionals.  
+- Automated **data preprocessing, training, and evaluation** workflows, supporting early detection and assisting healthcare professionals.
+- Project Repo: [Breast Cancer Prediction](https://github.com/pdinduku/Predicting-Breast-Cancer-using-GCP) 
 
 
 ---
