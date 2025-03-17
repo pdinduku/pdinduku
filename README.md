@@ -98,6 +98,7 @@
 - Built a **loan prediction system**, achieving **94% accuracy & 0.93 F1-score** with **advanced feature engineering**.  
 - Developed a **web-based application** for real-time **loan approvals & credit history insights**.  
 - Deployed on cloud infrastructure, ensuring **scalability, security, and reliability**.  
+- Project Repo: [CreditPredict](https://github.com/pdinduku/CreditPredictML-AnalyzeInsights)
 
 
 #### 🤖 QAGen: Transformer-Based Question Answering System  
@@ -110,6 +111,7 @@
 - Designed an **ML-based predictive system** to track & forecast **student performance**, incorporating **temporal correlations**.  
 - Built a **bilayered prediction architecture** with **ensemble models**, improving accuracy & early identification of **at-risk students**.  
 - Implemented a **modular pipeline** for **data processing, training, and visualization**, enabling data-driven academic insights.  
+- Project Repo: [PerformancePrediction](https://github.com/pdinduku/Predicting-Student-Performance-ML)
 
 
 #### 🏥 Predicting Breast Cancer using GCP  
